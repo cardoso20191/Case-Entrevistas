@@ -1,0 +1,20 @@
+INSIGHTS:
+
+1. Divergência na quantidade de clientes entre base_uf (legado) e base geral (ativa)
+	Considerando que a base Geral é uma base ativa.
+	Oportunidade de atuação em cima dos clientes da base_uf, considerando que os mesmos não encontra-se ativos.
+	Se 5% destes clientes contratassem um dos serviços de conta corrente ou um novo cartão representaria um ganho estimado de 30.463 produtos contratados multiplicando pelo valor de cada serviços, talvez um ganho estimado de >1Mi por mês.
+	
+2. Renda Média por estado e perfil: Olhando pela Média Existe um equilíbrio de renda entre os 24 estados das bases. Porém separando por categoria de renda, temos pouco mais de 45k de clientes de alta renda, 19k Classe Média e <10k  de baixa renda e 94 sem Renda.
+Oportunidade: Se 5% dos clientes Alta renda contratar um produto ou serviço (conta ou cartão credito) representaria cerca de 22.544k de novos produtos comercializados, o que poderia chegar >1Mi de faturamento mensal. O mesmo vale para o publico de Classe Média, que poderia representar com os mesmo 5% pouco mais de 960 novos produtos cerca de 500k em faturamento mês.
+	
+3.As regiões tem um leve equilíbrio nas distribuições de renda todas as regiões >40k em media com um perfil mais senior que entraram recentemente para o grupo de 50+, considerada uma idade mais conservadora, o que aumenta as oportunidades de ofertas de seguros para contas correntes e produtos de cartão de crédito.
+
+BIG NUMBERS:
+
++45k de Clientes alta Renda (>6k)
++19k de Clientes Renda Média (2-6k)
+
+Existe uma divergência entre as bases de +25k por estado (registros que podems estar desatualizados), dificultando ações de contato.
+
+Base geral apenas 45k (considerado base ok e ativa)
